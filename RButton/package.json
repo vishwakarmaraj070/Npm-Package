@@ -1,0 +1,8 @@
+{
+    "name": "front-end-adda-button",
+    "version": "1.0.2",
+    "description": "this is customized react material-ui button",
+    "main": "index.js",
+    "author": "Raj Vishwakarma",
+    "license": "ISC"
+}
