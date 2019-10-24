@@ -1,0 +1,8 @@
+{
+    "name": "front-end-adda-card",
+    "version": "1.0.0",
+    "description": "this is customize react material-ui card",
+    "main": "index.js",
+    "author": "Raj Vishwakarma",
+    "license": "ISC"
+}
